@@ -110,7 +110,7 @@ Key Insights
    
 # Standout Section
 
-I ensured that dates are properly extracted using the dt.day function, also used a line grap to identify the reason for an increase in tax rate By properly extracting dates using the dt.day function,i ensured accurate analysis of temporal trends. And, by using a line graph to investigate the increase in tax rate,i effectively visualized the data to identify potential causes.[Executive Summary pandas.docx](https://github.com/user-attachments/files/16947879/Executive.Summary.pandas.docx)
+I ensured that dates are properly extracted using the dt.day function, also used a line grap to identify the reason for an increase in tax rate By properly extracting dates using the dt.day function,i ensured accurate analysis of temporal trends. And, by using a line graph to investigate the increase in tax rate,i effectively visualized the data to identify potential causes.
 
 
 
